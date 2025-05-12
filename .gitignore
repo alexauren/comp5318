@@ -1,4 +1,3 @@
 keras_tuner/
 tuning_logs/
-
-best_models/best_random_forest_model
+best_models/
